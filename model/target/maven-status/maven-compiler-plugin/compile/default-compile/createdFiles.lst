@@ -1,0 +1,6 @@
+com\app\model\Car.class
+com\app\model\valid\generic\Validator.class
+com\app\model\CarGenerator.class
+com\app\model\valid\CarValidatorImpl.class
+com\app\model\valid\generic\AbstractValidator.class
+com\app\model\Car$CarBuilder.class

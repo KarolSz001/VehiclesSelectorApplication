@@ -1,0 +1,6 @@
+com\app\utilities\AverageCollector.class
+com\app\utilities\DataManager.class
+com\app\utilities\JsonConverter.class
+com\app\utilities\CarsStoresJsonConverter.class
+com\app\utilities\ScreenManager.class
+com\app\utilities\AverageCollector$BigDecimalAccumulator.class

@@ -1,0 +1,46 @@
+[
+  {
+    "model": "SCODA",
+    "price": 229457,
+    "color": "GREEN",
+    "mileage": 267462,
+    "components": [
+      "ABS",
+      "TV",
+      "RADIO"
+    ]
+  },
+  {
+    "model": "HONDA",
+    "price": 234451,
+    "color": "WHITE",
+    "mileage": 387165,
+    "components": [
+      "RADIO",
+      "ABS",
+      "GPS"
+    ]
+  },
+  {
+    "model": "SCODA",
+    "price": 121981,
+    "color": "RED",
+    "mileage": 385570,
+    "components": [
+      "RADIO",
+      "GPS",
+      "TV"
+    ]
+  },
+  {
+    "model": "HONDA",
+    "price": 489600,
+    "color": "GREY",
+    "mileage": 407911,
+    "components": [
+      "RADIO",
+      "ABS",
+      "GPS"
+    ]
+  }
+]
